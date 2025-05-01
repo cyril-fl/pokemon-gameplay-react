@@ -92,14 +92,8 @@ To install and run the project locally, follow these steps:
    ```
 
 ### Contribution & License
-
-#### License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-#### Contribution
-
-No contributions are needed as this project is for educational purposes only.
+- **License**: This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+- **Contribution**: No contributions are needed as this project is for educational purposes only.
 
 ### Disclaimer
 
